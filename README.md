@@ -1,2 +1,0 @@
-# money
-verb describer Infinity
